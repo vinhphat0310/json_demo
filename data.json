@@ -1,10 +1,40 @@
 {
-  "User": {
-    "name": "Huynh Vinh Phat",
-    "id": "22702261"
-  },
-  "Account": {
-    "username": "vinhphat123",
-    "email": "example@gmail.com"
-  }
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
+      "phone": "0123456789",
+      "avatar": "https://example.com/avatar/a.jpg",
+      "createdAt": "2024-01-01T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "email": "nguyenvanb@gmail.com",
+      "phone": "0987654321",
+      "avatar": "https://example.com/avatar/b.jpg",
+      "createdAt": "2024-01-05T08:00:00.000Z"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvana",
+      "password": "123456",
+      "status": "active",
+      "lastLogin": "2024-04-01T10:30:00.000Z",
+      "createdAt": "2024-01-01T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "tranthib",
+      "password": "abcdef",
+      "status": "active",
+      "lastLogin": "2024-04-02T12:15:00.000Z",
+      "createdAt": "2024-01-02T08:00:00.000Z"
+    }
+  ]
 }
