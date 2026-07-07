@@ -1,1 +1,10 @@
-
+{
+  "User": {
+    "name": "Huynh Vinh Phat",
+    "id": "22702261"
+  },
+  "Account": {
+    "username": "vinhphat123",
+    "email": "example@gmail.com"
+  }
+}
