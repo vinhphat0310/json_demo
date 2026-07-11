@@ -44,7 +44,7 @@
       "moTa": "Dien thoai Android, man hinh 6.5 inch, bo nho 128GB",
       "gia": 4490000,
       "soLuong": 20,
-      "hinhAnh": "images/samsung_galaxy_a15_xanh_04d64d2502.jpg",
+      "hinhAnh": "https://raw.githubusercontent.com/vinhphat0310/json_demo/main/images/samsung-a15.jpg",
       "danhMuc": "Dien thoai",
       "trangThai": "con_hang"
     },
@@ -54,7 +54,7 @@
       "moTa": "Laptop hoc tap va van phong, RAM 8GB, SSD 512GB",
       "gia": 12990000,
       "soLuong": 8,
-      "hinhAnh": "images/x1502va-bq885w.jpg",
+      "hinhAnh": "https://raw.githubusercontent.com/vinhphat0310/json_demo/main/images/x1502va-bq885w.jpg",
       "danhMuc": "Laptop",
       "trangThai": "con_hang"
     },
@@ -64,7 +64,7 @@
       "moTa": "Tai nghe khong day, pin lau, ket noi Bluetooth",
       "gia": 1190000,
       "soLuong": 15,
-      "hinhAnh": "images/tai-nghe-bluetooth-chup-tai-sony-wh-ch520-thumb-1-600x600.jpg",
+      "hinhAnh": "https://raw.githubusercontent.com/vinhphat0310/json_demo/main/images/tai-nghe-bluetooth-chup-tai-sony-wh-ch520-thumb-1-600x600.jpg",
       "danhMuc": "Phu kien",
       "trangThai": "con_hang"
     }
