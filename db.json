@@ -36,5 +36,57 @@
       "lastLogin": "2024-04-02T12:15:00.000Z",
       "createdAt": "2024-01-02T08:00:00.000Z"
     }
+  ],
+  "sanpham": [
+    {
+      "id": 1,
+      "tenSanPham": "Dien thoai Samsung Galaxy A15",
+      "moTa": "Dien thoai Android, man hinh 6.5 inch, bo nho 128GB",
+      "gia": 4490000,
+      "soLuong": 20,
+      "hinhAnh": "https://example.com/images/samsung-a15.jpg",
+      "danhMuc": "Dien thoai",
+      "trangThai": "con_hang"
+    },
+    {
+      "id": 2,
+      "tenSanPham": "Laptop Asus Vivobook 15",
+      "moTa": "Laptop hoc tap va van phong, RAM 8GB, SSD 512GB",
+      "gia": 12990000,
+      "soLuong": 8,
+      "hinhAnh": "https://example.com/images/asus-vivobook-15.jpg",
+      "danhMuc": "Laptop",
+      "trangThai": "con_hang"
+    },
+    {
+      "id": 3,
+      "tenSanPham": "Tai nghe Bluetooth Sony WH-CH520",
+      "moTa": "Tai nghe khong day, pin lau, ket noi Bluetooth",
+      "gia": 1190000,
+      "soLuong": 15,
+      "hinhAnh": "https://example.com/images/sony-wh-ch520.jpg",
+      "danhMuc": "Phu kien",
+      "trangThai": "con_hang"
+    },
+    {
+      "id": 4,
+      "tenSanPham": "Chuot khong day Logitech M331",
+      "moTa": "Chuot khong day giam tieng on, phu hop van phong",
+      "gia": 299000,
+      "soLuong": 30,
+      "hinhAnh": "https://example.com/images/logitech-m331.jpg",
+      "danhMuc": "Phu kien",
+      "trangThai": "con_hang"
+    },
+    {
+      "id": 5,
+      "tenSanPham": "Ban phim co AKKO 3087",
+      "moTa": "Ban phim co layout TKL, switch co hoc, den LED",
+      "gia": 1590000,
+      "soLuong": 0,
+      "hinhAnh": "https://example.com/images/akko-3087.jpg",
+      "danhMuc": "Phu kien",
+      "trangThai": "het_hang"
+    }
   ]
 }
