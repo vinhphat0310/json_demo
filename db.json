@@ -67,26 +67,6 @@
       "hinhAnh": "https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20WH-CH500-40873.jpg",
       "danhMuc": "Phu kien",
       "trangThai": "con_hang"
-    },
-    {
-      "id": 4,
-      "tenSanPham": "Chuot khong day Logitech M331",
-      "moTa": "Chuot khong day giam tieng on, phu hop van phong",
-      "gia": 299000,
-      "soLuong": 30,
-      "hinhAnh": "https://commons.wikimedia.org/wiki/Special:FilePath/Logitech%20M331%20Silent%20Mouse.jpg",
-      "danhMuc": "Phu kien",
-      "trangThai": "con_hang"
-    },
-    {
-      "id": 5,
-      "tenSanPham": "Ban phim co AKKO 3087",
-      "moTa": "Ban phim co layout TKL, switch co hoc, den LED",
-      "gia": 1590000,
-      "soLuong": 0,
-      "hinhAnh": "https://commons.wikimedia.org/wiki/Special:FilePath/Mechanical%20keyboard.jpg",
-      "danhMuc": "Phu kien",
-      "trangThai": "het_hang"
     }
   ]
 }
